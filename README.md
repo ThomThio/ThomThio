@@ -8,9 +8,10 @@ Im currently plying my trade at Meta to optimize our sales and support workforce
 
 In between, I did software engineering at Rakuten in Tokyo, and at a hedge fund. This repo is how I keep up to date with technologies - Ask me anything about products, ads, or financial markets - we'll probably geek out :)
 
-- I'm exploring **NextJS **
+## I'm exploring
+- NextJS <> ReactJS
 
-## Tools and Languages I've used and learned
+## Tech: Tools and Languages I've used and learned
 
  - C#
  - Python
@@ -26,7 +27,6 @@ In between, I did software engineering at Rakuten in Tokyo, and at a hedge fund.
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="py" width="40" height="40"/> </a> 
 <a href="https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/> </a> 
-
  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 
 <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodeJs" width="40" height="40"/> </a> <a href="https://www.express-gateway.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/express-gatewayio/express-gatewayio-icon.svg" alt="nodeJs" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
