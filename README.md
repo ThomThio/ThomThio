@@ -17,7 +17,7 @@ In between, I did software engineering at Rakuten in Tokyo, and at a hedge fund.
  - Python
  - Java
  - JS (Node, React, jquery)
- - Flavors of pipelines and databases: Kafka, Graphql, NoSql, postgres, mongo
+ - Flavors of pipelines and databases: Kafka, Graphql, NoSql, postgres, mongo, Elastic, BigQuery, Hadoop, Presto
 
 
 ## In visual form..
