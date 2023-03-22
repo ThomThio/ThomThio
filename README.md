@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello :) Welcome to my hacker space 👋
+
+In the day, I wear a Product Manager hat - in the night (and in a not-too-distant past), I engineer and tinker tools for personal and enterprise usage.
 
 <!--
 **ThomThio/ThomThio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
