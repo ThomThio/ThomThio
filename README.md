@@ -1,6 +1,6 @@
 ### Hello there, welcome to my hacker space 👋
 
-In the day, I wear a Product Manager hat - in the night, I'm an engineer and tinker on tools for personal and (somtimes!) enterprise use.
+In the day, I wear a Product Manager hat - in the night, I'm an engineer and tinker on tools for personal and business use.
 
 
 ## Work 
