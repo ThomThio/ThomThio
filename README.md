@@ -1,10 +1,10 @@
 ### Hello there, welcome to my hacker space 👋
 
-In the day, I wear a Product Manager hat - in the night (and in a not-too-distant past), I engineer and tinker tools for personal and (somtimes!) enterprise use.
+In the day, I wear a Product Manager hat - in the night, I'm an engineer and tinker on tools for personal and (somtimes!) enterprise use.
 
-Im currently plying my trade at Meta in the sales and support workflows. I was a PM at Shopee for an AI Design suite, and 5 years at an enterprise start-up before it was cool 😎. 
+Im currently plying my trade at Meta in the sales and support workflows. I was a PM at Shopee for an AI Design suite, and 5 years at an enterprise start-up before it was cool 😎 
 
-In between, I did software engineering at Rakuten in Tokyo, and at a hedge fund. Ask me anything about products, ads, or financial markets - we'll probably geek out :)
+In between, I did software engineering at Rakuten in Tokyo, and at a hedge fund. This repo is how I keep up to date with technologies - Ask me anything about products, ads, or financial markets - we'll probably geek out :)
 
 
 
