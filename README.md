@@ -1,6 +1,12 @@
-### Hello :) Welcome to my hacker space 👋
+### Hello there, welcome to my hacker space 👋
 
-In the day, I wear a Product Manager hat - in the night (and in a not-too-distant past), I engineer and tinker tools for personal and enterprise usage.
+In the day, I wear a Product Manager hat - in the night (and in a not-too-distant past), I engineer and tinker tools for personal and (somtimes!) enterprise use.
+
+Im currently plying my trade at Meta in the sales and support workflows. I was a PM at Shopee for an AI Design suite, and 5 years at an enterprise start-up before it was cool 😎. 
+
+In between, I did software engineering at Rakuten in Tokyo, and at a hedge fund. Ask me anything about products, ads, or financial markets - we'll probably geek out :)
+
+
 
 <!--
 **ThomThio/ThomThio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
