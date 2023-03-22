@@ -2,23 +2,30 @@
 
 In the day, I wear a Product Manager hat - in the night, I'm an engineer and tinker on tools for personal and (somtimes!) enterprise use.
 
-Im currently plying my trade at Meta in the sales and support workflows. I was a PM at Shopee for an AI Design suite, and 5 years at an enterprise start-up before it was cool 😎 
+
+## Work 
+Im currently plying my trade at Meta to optimize our sales and support workforce with better in-product workflows and assistance (AI!). I was a PM at Shopee for an AI Design suite, and 5 years at an enterprise start-up before it was cool 😎 
 
 In between, I did software engineering at Rakuten in Tokyo, and at a hedge fund. This repo is how I keep up to date with technologies - Ask me anything about products, ads, or financial markets - we'll probably geek out :)
 
+- I'm exploring **NextJS **
+
+## A some of the Tools and Languages I've used and learned
+
+ - C#
+ - Python
+ - Java
+ - JS (Node, React, jquery)
+ - Kafka
 
 
-<!--
-**ThomThio/ThomThio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#In visual form..
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  
+<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="py" width="40" height="40"/> </a> 
+<a href="https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/> </a> 
+
+ <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Js" width="40" height="40"/> </a> <a href="https://nodejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodeJs" width="40" height="40"/> </a> <a href="https://www.express-gateway.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/express-gatewayio/express-gatewayio-icon.svg" alt="nodeJs" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ex" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
+ 
