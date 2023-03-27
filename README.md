@@ -1,6 +1,6 @@
 ### Hello there, welcome to my hacker space 👋
 
-In the day, I wear a Product Manager hat - in the night, I'm an engineer and tinker on tools for personal and business use.
+My daily work involves everything around Product Development, and am really keen on activating new/valuable B2B and B2C use cases. I never actually stopped "hacking", so this is my space to do it, and test new ideas out!
 
 
 ## Work 
