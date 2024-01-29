@@ -9,7 +9,8 @@ Im currently plying my trade at Meta to optimize our sales and support workforce
 In between, I did software engineering at Rakuten in Tokyo, and at a hedge fund. This repo is how I keep up to date with technologies - Ask me anything about products, ads, or financial markets - we'll probably geek out :)
 
 ## I'm exploring
-- [Present] OpenAI, StableDiffusion
+- [Present] Full-Production Scale Apps
+- [Aug 23 - Dec 23] OpenAI, StableDiffusion
 - [Apr 23 - Jul 23]NextJS <> ReactJS
 
 ## Tech: Tools and Languages I've used and learned
