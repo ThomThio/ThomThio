@@ -1,5 +1,7 @@
 ### Hello there, welcome to my hacker space 👋
 
+*Some repos are in the midst of being transitioned to Growth HQ. Here's a bit about me and building tech products.
+
 My daily work involves everything around Product Development, and am really keen on activating new/valuable B2B and B2C use cases. I never actually stopped "hacking", so this is my space to do it, and test new ideas out!
 
 
